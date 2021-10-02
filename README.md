@@ -11,7 +11,7 @@ What's lacking for an initial release:
 
 
 Example of how the "library" can be used in its current state (main.py):
-```
+```python
 import asyncio
 import signal
 
